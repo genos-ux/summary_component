@@ -1,0 +1,15 @@
+body{
+    background: url("images/pattern-background-desktop.svg");
+    background-size: cover;
+    background-color: hsl(225, 100%, 94%);
+    
+}
+
+
+.img{
+    width: 29%;
+    
+}
+span{
+    font-size: small;
+}
